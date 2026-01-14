@@ -15,4 +15,9 @@ double _mul(double a, double b) {
 double _div(double a, double b) {
 	return a/b;
 }
+
+/* À ajouter à la fin du fichier */
+int car(int a) {
+    return a * a;
+}
 	
